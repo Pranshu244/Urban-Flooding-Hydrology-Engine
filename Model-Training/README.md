@@ -8,7 +8,7 @@ To generate the dataset:
 1. Sign up for Google Earth Engine.
 2. Authenticate Earth Engine in Python and connect your project.
 3. Run the notebook:
-  Data_Preparation/Hydrology Engine GIS Data Preparation.ipynb
+  data_preperation/Hydrology_Engine_GIS_Data_Preparation.ipynb
 4. To get delhi_wards.kml view this folder: 
   Frontend/assets/delhi_wards.kml
 
