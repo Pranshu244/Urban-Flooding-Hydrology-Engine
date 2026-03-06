@@ -1,16 +1,18 @@
 ## Dataset Preparation and Uploads
 
-This project uses geospatial datasets extracted using Google Earth Engine.
+This project uses geospatial datasets generated using Google Earth Engine.
+Due to GitHub file size limitations, the datasets are not stored directly in this repository.
 
-Due to GitHub file size limitations, the dataset is not stored directly in the repository.
+### Steps to Generate the Dataset
 
-To generate the dataset:
-1. Sign up for Google Earth Engine.
+1. Create an account on Google Earth Engine.
 2. Authenticate Earth Engine in Python and connect your project.
 3. Run the notebook:
-  data_preperation/Hydrology_Engine_GIS_Data_Preparation.ipynb
-4. To get delhi_wards.kml view this folder: 
-  Frontend/assets/delhi_wards.kml
 
-This will export the required GeoTIFF files to your drive and generate the training dataset automatically.
+   data_preperation/Hydrology_Engine_GIS_Data_Preparation.ipynb
 
+4. For the Delhi wards boundary file, refer to:
+
+   Frontend/assets/delhi_wards.kml
+   
+Running the notebook will automatically export the required GeoTIFF files to your drive and generate the dataset used for model training.
