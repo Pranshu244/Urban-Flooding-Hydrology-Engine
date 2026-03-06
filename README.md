@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![Machine Learning](https://img.shields.io/badge/ML-Gaussian%20Mixture-orange)
+![GIS](https://img.shields.io/badge/Geospatial-Analysis-red)
 # Urban Flooding & Hydrology Engine
 AI-powered GIS-integrated system that analyzes rainfall patterns, terrain elevation, and drainage data to identify urban flood micro-hotspots across the city.  
 
