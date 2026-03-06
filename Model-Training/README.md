@@ -9,7 +9,8 @@ To generate the dataset:
 1. Sign up for Google Earth Engine
 2. Authenticate Earth Engine in Python and connect your project
 3. Run the notebook:
-
 Data-Preparation/Hydrology Engine GIS Data Preparation.ipynb
+4. To get delhi_wards.kml view this folder:
+Frontend/assets/delhi_wards.kml
 
 This will export the required GeoTIFF files in your drive and generate the training dataset automatically.
