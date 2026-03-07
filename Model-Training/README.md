@@ -9,7 +9,7 @@ Due to GitHub file size limitations, the datasets are not stored directly in thi
 2. Authenticate Earth Engine in Python and connect your project.
 3. Run the notebook:
 
-   data_preperation/Hydrology_Engine_GIS_Data_Preparation.ipynb
+   data_preparation/Hydrology_Engine_GIS_Data_Preparation.ipynb
 
 4. For the Delhi wards boundary file, refer to:
 
