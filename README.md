@@ -263,6 +263,9 @@ This system enables authorities to:
 ### Pre-Monsoon Readiness Score
 ![image alt](https://github.com/Pranshu244/Urban-Flooding-Hydrology-Engine/blob/5cb4eb261dc4021e95a558f0a683594d5265dabc/prototype%20images/ward%20pre%20monsoon%20readiness%20score.png)
 
+### Seven tier ward readiness score table
+![image alt](https://github.com/Pranshu244/Urban-Flooding-Hydrology-Engine/blob/f7ed27ebcffab9562db3ee79f4db504069cd7768/prototype%20images/seven%20tier%20ward%20readiness%20score%20table.png)
+
 ### Logs
 ![image alt](https://github.com/Pranshu244/Urban-Flooding-Hydrology-Engine/blob/5cb4eb261dc4021e95a558f0a683594d5265dabc/prototype%20images/api%20logs.png)
 
